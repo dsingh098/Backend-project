@@ -1,0 +1,8 @@
+{
+    "singleQuota" : true,
+    "tabWidth" : 2,
+    "brackerSpacing" : true,
+    "semis" :true,
+    "traikingComma" : "es5"
+
+}
